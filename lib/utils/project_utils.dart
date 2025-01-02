@@ -196,7 +196,7 @@ List<ProjectUtils> uiProjectsUitls = [
     subTitle: "Delicious Meals Delivered to Your Doorstep",
     description:
         "This Food Delivery App features a clean and intuitive user interface designed for seamless navigation. Users can explore a variety of food categories, including burgers, pizzas, and kebabs, with just a tap. The app highlights free delivery options and provides visually appealing product cards with pricing and descriptions to enhance the browsing experience. Whether you're craving a juicy burger or a slice of pizza, this app ensures a delightful and hassle-free food ordering process",
-    githubLink: "",
+    githubLink: "https://github.com/khaledshalien97/Food-Delivery-UI-App",
     appStoreLink: "",
     androidStoreLink: "",
     images: [
@@ -215,7 +215,7 @@ List<ProjectUtils> uiProjectsUitls = [
     subTitle: "Shop Lifestyle Products with Elegance and Ease",
     description:
         "Discover the elegance of simplicity with this Lifestyle Sale App. The app's modern design showcases an inviting and user-friendly interface, perfect for exploring lifestyle products. Featuring a prominent promotional banner for exclusive sales, followed by a visually appealing grid of product images, the app makes shopping easy and enjoyable. Its minimalist layout ensures smooth navigation, creating a seamless experience for users to browse, discover, and shop their favorite items",
-    githubLink: "",
+    githubLink: "https://github.com/khaledshalien97/Lifestyle-UI-App",
     appStoreLink: "",
     androidStoreLink: "",
     images: [lifeStyle1, lifeStyle2],
@@ -226,7 +226,7 @@ List<ProjectUtils> uiProjectsUitls = [
     subTitle: "Immersive Wristwatch Gallery with Vertical Card Pager",
     description:
         "This Flutter application provides a sleek and visually appealing gallery of wristwatches, featuring a vertical card pager for an engaging user experience. Each card highlights a high-resolution image of a wristwatch, with smooth scrolling transitions to captivate the viewer. The app combines modern design principles with an intuitive interface, showcasing my skills in Flutter development and creative UI design",
-    githubLink: "",
+    githubLink: "https://github.com/khaledshalien97/WristWatch-UI-App",
     appStoreLink: "",
     androidStoreLink: "",
     images: [verticalappleft, verticalappCenter, verticalappRight],
