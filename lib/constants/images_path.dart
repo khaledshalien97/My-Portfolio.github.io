@@ -32,6 +32,23 @@ const String taqtak6 ="asset/images/projects_img/taqtak_app/taqtak_6.webp";
 const String taqtak7 ="asset/images/projects_img/taqtak_app/taqtak_7.webp";
 
 
+// Plant App Photo
+const String coverplant ="asset/images/projects_img/plant_app/cover_plant.png";
+const String plant1 ="asset/images/projects_img/plant_app/screen_1.png";
+const String plant2 ="asset/images/projects_img/plant_app/screen_2.png";
+const String plant3 ="asset/images/projects_img/plant_app/screen_3.png";
+const String plant4 ="asset/images/projects_img/plant_app/screen_4.png";
+const String plant5 ="asset/images/projects_img/plant_app/screen_5.png";
+const String plant6 ="asset/images/projects_img/plant_app/screen_6.png";
+const String plant7 ="asset/images/projects_img/plant_app/screen_7.png";
+const String plant8 ="asset/images/projects_img/plant_app/screen_8.png";
+const String plant9 ="asset/images/projects_img/plant_app/screen_9.png";
+const String plant10 ="asset/images/projects_img/plant_app/screen_10.png";
+const String plant11 ="asset/images/projects_img/plant_app/screen_11.png";
+const String plant12 ="asset/images/projects_img/plant_app/screen_12.png";
+
+
+
 // Delivery App Photo
 const String delivery1 ="asset/images/projects_img/delivery_app/delivery_1.jpeg";
 const String delivery2 ="asset/images/projects_img/delivery_app/delivery_2.jpeg";

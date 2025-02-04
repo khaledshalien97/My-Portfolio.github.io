@@ -28,7 +28,7 @@ class MainMobile extends StatelessWidget {
                   CustomColor.scaffoldBg.withOpacity(0.6),
                 ]).createShader(bounds);
               },
-              blendMode: BlendMode.dstATop,
+              blendMode: BlendMode.srcOver,
               child: Image.asset(
                 myPhoto,
                 width: screenWidth,

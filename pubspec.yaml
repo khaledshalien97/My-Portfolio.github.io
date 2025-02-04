@@ -74,6 +74,7 @@ flutter:
     - asset/images/projects_img/travel_app/
     - asset/images/projects_img/to_do_app/
     - asset/images/projects_img/vertical_card_app/
+    - asset/images/projects_img/plant_app/
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
