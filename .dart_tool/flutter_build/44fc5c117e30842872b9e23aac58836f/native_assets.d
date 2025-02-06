@@ -1,0 +1,1 @@
+ /Users/khaled/Development/flutter_Projects/khaled_app/my_portfolio_app/.dart_tool/flutter_build/44fc5c117e30842872b9e23aac58836f/native_assets.yaml: 
