@@ -46,6 +46,7 @@ const String plant9 ="asset/images/projects_img/plant_app/screen_9.png";
 const String plant10 ="asset/images/projects_img/plant_app/screen_10.png";
 const String plant11 ="asset/images/projects_img/plant_app/screen_11.png";
 const String plant12 ="asset/images/projects_img/plant_app/screen_12.png";
+const String plant13 ="asset/images/projects_img/plant_app/screen_13.png";
 
 
 

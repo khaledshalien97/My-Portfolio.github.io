@@ -238,7 +238,7 @@ List<ProjectUtils> uiProjectsUitls = [
         "Discover & Shop Beautiful Plants with Ease",
     description:
         "This Flutter application offers a seamless and visually appealing shopping experience for plant enthusiasts. It features a modern UI with a well-structured layout, allowing users to browse, search, and favorite plants effortlessly. The app incorporates a clean and intuitive design with smooth transitions, interactive elements, and category-based filtering.the app ensures high performance, scalability, and maintainability. This project highlights my expertise in Flutter development, UI/UX design, API integration, and state management, demonstrating my ability to create engaging and efficient mobile applications.",
-    githubLink: "https://github.com/khaledshalien97/WristWatch-UI-App",
+    githubLink: "https://github.com/khaledshalien97/Plant-UI-app",
     appStoreLink: "",
     androidStoreLink: "",
     images: [
@@ -254,6 +254,7 @@ List<ProjectUtils> uiProjectsUitls = [
       plant10,
       plant11,
       plant12,
+      plant13,
     ],
   ),
 ];
